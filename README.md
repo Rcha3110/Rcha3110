@@ -2,7 +2,6 @@
 - 👀 I’m interested in helping people solve their problems
 -  🌱 I’m currently pursuing Computer Science and Engineering degree
 - 💞️ I’m looking to collaborate on various projects
-- 📫 Reach me via LinkedIn --> www.linkedin.com/in/aarchasaju
 - ⚡ Fun fact: I am just another creative person.
 
 <!---
