@@ -21,7 +21,4 @@ I'm a third year engineering student. Have skills in python. <br>I know html and
 ---
 [![](https://visitcount.itsvg.in/api?id=Rcha3110&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Rcha3110/Rcha3110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
