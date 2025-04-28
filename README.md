@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third year engineering student. Have skills in python. <br>I know html and I'm currently learning web development as an additional skill apart from my college studies. <br> I am exploring my intrest in technology.
+I'm a third year engineering student. Have skills in python. <br>I know html, css and I'm currently learning web development as an additional skill apart from my college studies. <br> I am exploring my intrest in technology.
 
 
 # 💻 Tech Stack:
